@@ -1,9 +1,6 @@
 body {
     background-color: lightblue;
 }
-body {
-    background-image: url("ui/background.png");
-}
 
 .center {
     text-align: center;
