@@ -1,6 +1,8 @@
 body {
-    background-image: url("ui/background.png");
     background-color: lightblue;
+}
+body {
+    background-image: url("ui/background.png");
 }
 
 .center {
